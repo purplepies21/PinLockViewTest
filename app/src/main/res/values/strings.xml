@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PinLockViewTest</string>
+    <string name="create_password_text">Create Password:</string>
+</resources>
